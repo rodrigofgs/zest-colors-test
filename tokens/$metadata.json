@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "hellofresh/core",
+    "hellofresh/components",
+    "cp/core",
+    "cp/components",
+    "Brands"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "cp": {
+    "component": {
+      "button": {
+        "primary": {
+          "background": {
+            "default": {
+              "value": "{cp.core.background.primary}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "border": {
+            "default": {
+              "value": "{HF-Lime-600}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{cp.core.text.primary}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "weekly-nav": {
+        "background": {
+          "active-weeks": {
+            "value": "{CP-Red-200}",
+            "type": "color"
+          },
+          "skipped-weeks": {
+            "value": "{Cherry-200}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "selected": {
+            "value": "{CP-Rede-600}",
+            "type": "color"
+          },
+          "critical": {
+            "value": "{Cherry-700}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{cp.core.text.primary}",
+            "type": "color"
+          },
+          "skipper-weeks": {
+            "value": "{Cherry-600}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
