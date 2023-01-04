@@ -6,7 +6,7 @@
     }
   },
   "fontWeights": {
-    "agrandir-digital-0": {
+    "agrandir-500": {
       "value": "Medium",
       "type": "fontWeights"
     }
@@ -15,9 +15,9 @@
     "XL Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -29,9 +29,9 @@
     "XL Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -43,9 +43,9 @@
     "XL": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -57,9 +57,9 @@
     "L Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.2}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -71,9 +71,9 @@
     "L Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.2}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -85,9 +85,9 @@
     "L": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.5}",
-        "fontSize": "{fontSize.6}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.40}",
+        "fontSize": "{fontSize.32}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -99,9 +99,9 @@
     "M Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.2}",
-        "fontSize": "{fontSize.1}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.5}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -113,9 +113,9 @@
     "M Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.2}",
-        "fontSize": "{fontSize.1}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.5}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -127,9 +127,9 @@
     "M": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.2}",
-        "fontSize": "{fontSize.1}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.5}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -141,9 +141,9 @@
     "S  Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.0}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -155,9 +155,9 @@
     "S  Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.0}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -169,9 +169,9 @@
     "S": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.0}",
+        "fontWeight": "{fontWeights.agrandir-500}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
