@@ -55,6 +55,14 @@
           "type": "color"
         }
       }
+    },
+    "recipe-card": {
+      "border": {
+        "active-weeks": {
+          "value": "{core.border.primary}",
+          "type": "color"
+        }
+      }
     }
   }
 }
