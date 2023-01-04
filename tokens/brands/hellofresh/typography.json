@@ -5,61 +5,13 @@
       "type": "fontFamilies"
     }
   },
-  "lineHeights": {
-    "0": {
-      "value": "48",
-      "type": "lineHeights"
-    },
-    "1": {
-      "value": "40",
-      "type": "lineHeights"
-    },
-    "2": {
-      "value": "32",
-      "type": "lineHeights"
-    },
-    "3": {
-      "value": "24",
-      "type": "lineHeights"
-    }
-  },
   "fontWeights": {
     "agrandir-digital-0": {
       "value": "Medium",
       "type": "fontWeights"
     }
   },
-  "fontSize": {
-    "0": {
-      "value": "20",
-      "type": "fontSizes"
-    },
-    "1": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "2": {
-      "value": "32",
-      "type": "fontSizes"
-    },
-    "3": {
-      "value": "40",
-      "type": "fontSizes"
-    }
-  },
-  "letterSpacing": {
-    "0": {
-      "value": "0",
-      "type": "letterSpacing"
-    }
-  },
-  "paragraphSpacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    }
-  },
-  "HF Headline": {
+  "Headline": {
     "XL Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
@@ -134,8 +86,8 @@
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
         "fontWeight": "{fontWeights.agrandir-digital-0}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -227,26 +179,6 @@
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
-    }
-  },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    }
-  },
-  "textDecoration": {
-    "line-through": {
-      "value": "line-through",
-      "type": "textDecoration"
-    },
-    "underline": {
-      "value": "underline",
-      "type": "textDecoration"
-    },
-    "none": {
-      "value": "none",
-      "type": "textDecoration"
     }
   }
 }
