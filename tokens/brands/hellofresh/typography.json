@@ -1,36 +1,24 @@
 {
-  "fontFamilies": {
-    "agrandir-digital": {
-      "value": "Agrandir Digital",
-      "type": "fontFamilies"
-    }
-  },
-  "fontWeights": {
-    "agrandir-500": {
-      "value": "Medium",
-      "type": "fontWeights"
-    }
-  },
-  "Headline": {
-    "XL Strikethrough": {
+  "HF Headline": {
+    "XL": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.5}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.4}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.line-through}"
+        "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
     },
     "XL Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.5}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.4}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -40,54 +28,26 @@
       },
       "type": "typography"
     },
-    "XL": {
+    "XL Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.5}",
-        "fontSize": "{fontSize.7}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
-    "L Strikethrough": {
-      "value": {
-        "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
         "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.6}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.line-through}"
-      },
-      "type": "typography"
-    },
-    "L Link": {
-      "value": {
-        "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.6}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.underline}"
       },
       "type": "typography"
     },
     "L": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.40}",
-        "fontSize": "{fontSize.32}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -96,40 +56,40 @@
       },
       "type": "typography"
     },
-    "M Strikethrough": {
+    "L Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.5}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.line-through}"
-      },
-      "type": "typography"
-    },
-    "M Link": {
-      "value": {
-        "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.5}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.underline}"
+      },
+      "type": "typography"
+    },
+    "L Strikethrough": {
+      "value": {
+        "fontFamily": "{fontFamilies.agrandir-digital}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.6}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.line-through}"
       },
       "type": "typography"
     },
     "M": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.5}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.32}",
+        "fontSize": "{fontSize.4}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -138,12 +98,26 @@
       },
       "type": "typography"
     },
-    "S  Strikethrough": {
+    "M Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.2}",
-        "fontSize": "{fontSize.3}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.32}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.underline}"
+      },
+      "type": "typography"
+    },
+    "M Strikethrough": {
+      "value": {
+        "fontFamily": "{fontFamilies.agrandir-digital}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.32}",
+        "fontSize": "{fontSize.4}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -152,11 +126,25 @@
       },
       "type": "typography"
     },
+    "S": {
+      "value": {
+        "fontFamily": "{fontFamilies.agrandir-digital}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
     "S  Link": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.2}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -166,17 +154,17 @@
       },
       "type": "typography"
     },
-    "S": {
+    "S  Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.agrandir-digital}",
-        "fontWeight": "{fontWeights.agrandir-500}",
-        "lineHeight": "{lineHeights.2}",
+        "fontWeight": "{fontWeights.agrandir-digital-2}",
+        "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textDecoration": "{textDecoration.line-through}"
       },
       "type": "typography"
     }

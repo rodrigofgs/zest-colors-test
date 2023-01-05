@@ -1,45 +1,11 @@
 {
-  "fontFamilies": {
-    "sonny-cond": {
-      "value": "Sonny Cond",
-      "type": "fontFamilies"
-    }
-  },
-  "Headline": {
-    "S Strikethrough": {
+  "CP Headline": {
+    "XL": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.20}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.line-through}"
-      },
-      "type": "typography"
-    },
-    "S Link": {
-      "value": {
-        "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.20}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.underline}"
-      },
-      "type": "typography"
-    },
-    "S": {
-      "value": {
-        "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.20}",
-        "fontSize": "{fontSize.20}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -48,26 +14,12 @@
       },
       "type": "typography"
     },
-    "M Strikethrough": {
+    "XL Link": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.20}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.line-through}"
-      },
-      "type": "typography"
-    },
-    "M Link": {
-      "value": {
-        "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.20}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -76,52 +28,24 @@
       },
       "type": "typography"
     },
-    "M": {
+    "XL Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.20}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
-    "L Strikethrough": {
-      "value": {
-        "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.2}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.line-through}"
-      },
-      "type": "typography"
-    },
-    "L Link": {
-      "value": {
-        "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.2}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.underline}"
       },
       "type": "typography"
     },
     "L": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
         "lineHeight": "{lineHeights.5}",
         "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
@@ -132,12 +56,26 @@
       },
       "type": "typography"
     },
-    "XL Strikethrough": {
+    "L Link": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.6}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.underline}"
+      },
+      "type": "typography"
+    },
+    "L Strikethrough": {
+      "value": {
+        "fontFamily": "{fontFamilies.sonny-cond}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -146,11 +84,67 @@
       },
       "type": "typography"
     },
-    "XL Link": {
+    "M": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.0}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.32}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "M Link": {
+      "value": {
+        "fontFamily": "{fontFamilies.sonny-cond}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.32}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.underline}"
+      },
+      "type": "typography"
+    },
+    "M Strikethrough": {
+      "value": {
+        "fontFamily": "{fontFamilies.sonny-cond}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.32}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.line-through}"
+      },
+      "type": "typography"
+    },
+    "S": {
+      "value": {
+        "fontFamily": "{fontFamilies.sonny-cond}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "S Link": {
+      "value": {
+        "fontFamily": "{fontFamilies.sonny-cond}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -160,25 +154,19 @@
       },
       "type": "typography"
     },
-    "XL": {
+    "S Strikethrough": {
       "value": {
         "fontFamily": "{fontFamilies.sonny-cond}",
-        "fontWeight": "{fontWeights.sonny-cond-1}",
-        "lineHeight": "{lineHeights.0}",
+        "fontWeight": "{fontWeights.sonny-cond-3}",
+        "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textDecoration": "{textDecoration.line-through}"
       },
       "type": "typography"
-    }
-  },
-  "fontWeights": {
-    "sonny-cond-1": {
-      "value": "Bold",
-      "type": "fontWeights"
     }
   }
 }

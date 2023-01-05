@@ -8,6 +8,10 @@
       "default": {
         "value": "{White}",
         "type": "color"
+      },
+      "subtle": {
+        "value": "{Gray-200}",
+        "type": "color"
       }
     },
     "text": {
