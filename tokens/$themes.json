@@ -8,6 +8,17 @@
     "$figmaStyleReferences": {}
   },
   {
+    "id": "9adeb289d85ea4ad7983afaab180e68f8aff6636",
+    "name": "new-brand",
+    "selectedTokenSets": {
+      "global": "source",
+      "brands/hellofresh/core": "enabled",
+      "brands/hellofresh/components": "enabled",
+      "brands/hellofresh/typography": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "14353b06740eed0732d66cf5f7c1efd17ff15abf",
     "name": "HF",
     "selectedTokenSets": {
@@ -278,5 +289,14 @@
       "component.button.secondary.text.disabled": "S:e0e814c5ce2c6ae1664a1cf7823e8353fc7b6c28,",
       "component.button.secondary.border.disabled": "S:0156900794e3ccbf9eafe81fbeb75f68e28ce259,"
     }
+  },
+  {
+    "id": "5033f8f86cc5b6861ccc0299f1709c1fcf6d62e4",
+    "name": "new-brand",
+    "selectedTokenSets": {
+      "global": "source",
+      "brands/new-brand/core": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

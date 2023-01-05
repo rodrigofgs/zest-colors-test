@@ -174,19 +174,7 @@
     },
     "brand": {
       "brand-color": {
-        "value": "{HF-Lime-600}",
-        "type": "color"
-      },
-      "brand-color-hover": {
-        "value": "{HF-Lime-700}",
-        "type": "color"
-      },
-      "brand-color-focused": {
-        "value": "{HF-Lime-800}",
-        "type": "color"
-      },
-      "brand-color-disabled": {
-        "value": "rgba({core.brand.brand-color}, {opacity.40})",
+        "value": "{Blue-600}",
         "type": "color"
       }
     }

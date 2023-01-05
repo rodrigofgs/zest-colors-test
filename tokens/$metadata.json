@@ -6,6 +6,7 @@
     "brands/cp/core",
     "brands/cp/components",
     "brands/hellofresh/typography",
-    "brands/cp/typography"
+    "brands/cp/typography",
+    "brands/new-brand/core"
   ]
 }
