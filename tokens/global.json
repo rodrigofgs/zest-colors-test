@@ -872,5 +872,11 @@
       "value": "underline",
       "type": "textDecoration"
     }
+  },
+  "opacity": {
+    "40": {
+      "value": "40%",
+      "type": "opacity"
+    }
   }
 }

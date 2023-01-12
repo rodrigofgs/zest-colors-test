@@ -2,7 +2,7 @@
   "core": {
     "background": {
       "primary": {
-        "value": "{CP-Red-600}",
+        "value": "{core.brand.brand-color}",
         "type": "color"
       },
       "default": {
@@ -16,7 +16,7 @@
     },
     "text": {
       "primary": {
-        "value": "{CP-Red-600}",
+        "value": "{core.brand.brand-color}",
         "type": "color"
       },
       "default": {
@@ -73,7 +73,7 @@
     "notifications": {
       "background": {
         "default-light": {
-          "value": "{CP-Blueberry-100}",
+          "value": "{HF-Lime-100}",
           "type": "color"
         },
         "info-light": {
@@ -112,7 +112,7 @@
         "type": "color"
       },
       "primary": {
-        "value": "{CP-Red-600}",
+        "value": "{core.brand.brand-color}",
         "type": "color"
       },
       "negative": {
@@ -121,11 +121,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{CP-Red-600}",
+          "value": "{Cherry-600}",
           "type": "color"
         },
         "focus": {
-          "value": "{CP-Red-700}",
+          "value": "{Cherry-700}",
           "type": "color"
         }
       },
@@ -168,8 +168,62 @@
         "type": "color"
       },
       "primary": {
+        "value": "{core.brand.brand-color}",
+        "type": "color"
+      },
+      "primary-disabled": {
+        "value": "{core.interactive.primary.disabled}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "brand-color": {
         "value": "{CP-Red-600}",
         "type": "color"
+      }
+    },
+    "interactive": {
+      "primary": {
+        "default": {
+          "value": "{core.brand.brand-color}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{CP-Red-700}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{CP-Red-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba({core.brand.brand-color}, {opacity.40})",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{White}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{CP-Red-100}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{CP-Red-200}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba({core.brand.brand-color}, {opacity.40})",
+          "type": "color"
+        },
+        "border": {
+          "default": {
+            "value": "{core.brand.brand-color}",
+            "type": "color"
+          }
+        }
       }
     }
   },

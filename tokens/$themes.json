@@ -8,17 +8,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "9adeb289d85ea4ad7983afaab180e68f8aff6636",
-    "name": "new-brand",
-    "selectedTokenSets": {
-      "global": "source",
-      "brands/hellofresh/core": "enabled",
-      "brands/hellofresh/components": "enabled",
-      "brands/hellofresh/typography": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "14353b06740eed0732d66cf5f7c1efd17ff15abf",
     "name": "HF",
     "selectedTokenSets": {
@@ -152,15 +141,31 @@
       "core.background.subtle": "S:73d88c29b0fe70476c9c794402387dd3a54fe4a8,",
       "component.button.secondary.border.disabled": "S:cbb74eb36086846745951515f9e5f3481d7fd0e5,",
       "component.button.secondary.text.disabled": "S:a16dd3870b710b46269ada422e422a41f101e68e,",
-      "component.radio-button.defatult": "S:225b0b4b7e1ae78cfcda87eb467649ddd7e93828,",
-      "component.radio-button.hover": "S:3265b637c34c10c7d62a6c6cd26bf259a6597858,",
-      "component.radio-button.focus": "S:71c361b9e395090efcbeab73b72ab9d76f51ef26,",
-      "component.radio-button.disabled": "S:6e0470b04b4789266abea2419dcb8b7f9d3b0d77,",
       "component.controls.defatult": "S:19a8a0bee680504e620202f2c017f7d74c8d99d1,",
       "component.controls.hover": "S:cc66648393cdd9d76cb906cd72f59ce289fb7b3c,",
       "component.controls.focus": "S:be77efeebba3f2988649850f1fbd95b11e0d132e,",
       "component.controls.disabled": "S:912f997fd0dad222a232bd781b7079df97e0ca78,",
-      "component.controls.selected-inverted": "S:b737cf4abe6bd98783217f956f0a9fd8ec92e9a3,"
+      "component.controls.selected-inverted": "S:b737cf4abe6bd98783217f956f0a9fd8ec92e9a3,",
+      "component.button.primary.background.hover": "S:f8e9b2136de32e0a8d444a5536df638b30f60ccc,",
+      "component.button.primary.background.focused": "S:6020e1acb3316f29e8524fbae838bd7c5a23791d,",
+      "component.button.primary.background.disabled": "S:dbe91531bde0e4ffc1f652844cb4f01341a7ab30,",
+      "core.brand.brand-color": "S:7b463bd750ff12b164f868f67983dc5319305343,",
+      "component.button.primary.text.default": "S:bfe61c20a31b033042218e5e4b11815db335778f,",
+      "core.interactive.hover": "S:2983d52b1f31e20f9b9c4017bce4ddedaff99a66,",
+      "core.interactive.focused": "S:5d62a5dbb663b960aff38c3f7e019457986ffb64,",
+      "core.interactive.disabled": "S:6c47438286db79e580109cf948c38fa711b3db0d,",
+      "core.interactive.primary.hover": "S:8b1862274e7fa3ac23a05db4d65cdae0d017cd74,",
+      "core.interactive.primary.focused": "S:9e15f604c0a1239cb3b1442b743a08a0769dffc1,",
+      "core.interactive.primary.disabled": "S:e50f2cc862090c4c145c929f3cb9fb2fa291b74e,",
+      "core.interactive.secondary.disabled": "S:92f50663bda8e88954406cf76eeaaca23830c2c8,",
+      "core.interactive.secondary.hover": "S:78d4847e3abedde8431e5df940981558c0121889,",
+      "core.interactive.secondary.focused": "S:e43e516bcf38abcaeb6c2c3ed33aed5bf548d435,",
+      "core.interactive.secondary.default": "S:e37196e949b55e149c8a3cd7061adee7da19e0d1,",
+      "core.interactive.primary.default": "S:c45d2489ad6e22efd06b2c79b3f4a6e456a17ece,",
+      "core.interactive.secondary.border.default": "S:fbe3b0a0ef2fd995bb56e7748edb088b1a2c23b1,",
+      "core.icons.primary-disabled": "S:af96fb75d01d337bc5f25c5ca30fd7dc85eb5a08,",
+      "component.button.primary.icon.default": "S:f6a9dd5daacc4a1cbe8c20c62938586a7fd672d3,",
+      "component.button.secondary.icon.default": "S:56fd9beae1dd899c6696e0ccd480ce96bd6adb7d,"
     }
   },
   {
@@ -231,7 +236,6 @@
       "core.icons.on-color": "S:2061be8b532451220be861fb2d3f8eb90f599ca6,",
       "core.icons.default": "S:7bc4252df542ceda0a85b59927300b55d8efa0a8,",
       "core.border.subdued": "S:f446461c71b26ea058d5823f0951a71a64ad8907,",
-      "core.text.negative": "S:5bca6eb54b8e084434fbcc7db6f28757c2b87ac1,",
       "component.recipe-card.border.active-weeks": "S:bd0cf7153bb4257b830563b2f211952c8f77969c,",
       "core.text.subdued": "S:431e091eb45f2c902047b2706b66aa48263557f0,",
       "core.text.disabled": "S:ed2d6a07d8eaf31a0ec92782e0271c70bdf94c45,",
@@ -287,16 +291,23 @@
       "component.button.secondary.text.selected": "S:61a4c688f6cd81c7939cf8a874ece4f71ec200e1,",
       "core.background.subtle": "S:df44cd99cdd4888fd289858346cc7e87180a95fb,",
       "component.button.secondary.text.disabled": "S:e0e814c5ce2c6ae1664a1cf7823e8353fc7b6c28,",
-      "component.button.secondary.border.disabled": "S:0156900794e3ccbf9eafe81fbeb75f68e28ce259,"
+      "component.button.secondary.border.disabled": "S:0156900794e3ccbf9eafe81fbeb75f68e28ce259,",
+      "component.controls.defatult": "S:6a0bfafea59c17259197d24aacc2ba9b32c97631,",
+      "component.controls.hover": "S:51049db3a659c2a9981ba590acc9a6110809764c,",
+      "component.controls.focus": "S:72f3fb51371aa44c8e20ec723eb01151c8c0f585,",
+      "component.controls.disabled": "S:a33b62e4518200fca1cdb81489aae3a18fec657e,",
+      "component.controls.selected-inverted": "S:d15893af4b189282a1c8254241f8ecc6f7409df7,",
+      "core.icons.primary-disabled": "S:6cf397c2f160fca15def32a2c75a18aafc00a457,",
+      "core.brand.brand-color": "S:8f66dd5874c8eb41ffe2fc7e04b95e8c7515ab55,",
+      "core.interactive.primary.default": "S:0dc4cd9faab11b96ed2bd8380c21dddebffd0c85,",
+      "core.interactive.primary.hover": "S:1a704801858adfdf359394bd4c5f25637297c747,",
+      "core.interactive.primary.focused": "S:8f5e62ab8dffc7e6dbe0c51f1906bf001c8d7971,",
+      "core.interactive.primary.disabled": "S:2476fff330995eacf3e7b201f976f71e6d1a8f49,",
+      "core.interactive.secondary.default": "S:c07b0e893fb2c72f97bf0c0433f77b30274a7bb0,",
+      "core.interactive.secondary.hover": "S:ca4f1be437b8752c8a10b701ea5b20da9d81397d,",
+      "core.interactive.secondary.focused": "S:db38a06a500bdbfd37ee4c047131ac6b0b9a24a8,",
+      "core.interactive.secondary.disabled": "S:45d52b86af3443fb73c0effb6c27eb59d13d336c,",
+      "core.interactive.secondary.border.default": "S:c834de04e2b1bd6377112923aadcb786bb2e2d6b,"
     }
-  },
-  {
-    "id": "5033f8f86cc5b6861ccc0299f1709c1fcf6d62e4",
-    "name": "new-brand",
-    "selectedTokenSets": {
-      "global": "source",
-      "brands/new-brand/core": "enabled"
-    },
-    "$figmaStyleReferences": {}
   }
 ]

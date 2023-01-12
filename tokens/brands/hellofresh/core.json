@@ -170,24 +170,60 @@
       "primary": {
         "value": "{core.brand.brand-color}",
         "type": "color"
+      },
+      "primary-disabled": {
+        "value": "{core.interactive.primary.disabled}",
+        "type": "color"
       }
     },
     "brand": {
       "brand-color": {
         "value": "{HF-Lime-600}",
         "type": "color"
+      }
+    },
+    "interactive": {
+      "primary": {
+        "default": {
+          "value": "{core.brand.brand-color}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{HF-Lime-700}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{HF-Lime-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba({core.brand.brand-color}, {opacity.40})",
+          "type": "color"
+        }
       },
-      "brand-color-hover": {
-        "value": "{HF-Lime-700}",
-        "type": "color"
-      },
-      "brand-color-focused": {
-        "value": "{HF-Lime-800}",
-        "type": "color"
-      },
-      "brand-color-disabled": {
-        "value": "rgba({core.brand.brand-color}, {opacity.40})",
-        "type": "color"
+      "secondary": {
+        "default": {
+          "value": "{White}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{HF-Lime-200}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{HF-Lime-300}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba({core.brand.brand-color}, {opacity.40})",
+          "type": "color"
+        },
+        "border": {
+          "default": {
+            "value": "{core.brand.brand-color}",
+            "type": "color"
+          }
+        }
       }
     }
   },
