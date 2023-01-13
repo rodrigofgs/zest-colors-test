@@ -3,7 +3,19 @@
     "id": "364dbebbcddf341651402727a20db547171d6a68",
     "name": "Zest",
     "selectedTokenSets": {
-      "global": "source"
+      "global": "source",
+      "global/components": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a45609d6efb66befb81b8a796aecf667a23568ec",
+    "name": "Pet",
+    "selectedTokenSets": {
+      "global": "source",
+      "brands/pet/core": "enabled",
+      "brands/pet/components": "enabled",
+      "global/components": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,8 +25,8 @@
     "selectedTokenSets": {
       "global": "source",
       "brands/hellofresh/core": "enabled",
-      "brands/hellofresh/components": "enabled",
-      "brands/hellofresh/typography": "enabled"
+      "brands/hellofresh/typography": "enabled",
+      "global/components": "source"
     },
     "$figmaStyleReferences": {
       "component.button.primary.background.default": "S:1b1a9a820b656814c7a276b9f6b11543cb0f4547,",
@@ -174,8 +186,8 @@
     "selectedTokenSets": {
       "global": "source",
       "brands/cp/core": "enabled",
-      "brands/cp/components": "enabled",
-      "brands/cp/typography": "enabled"
+      "brands/cp/typography": "enabled",
+      "global/components": "source"
     },
     "$figmaStyleReferences": {
       "component.button.primary.background.default": "S:7c326af054133ddbf7515866a4f354a82dff92f1,",
