@@ -3,8 +3,7 @@
     "id": "364dbebbcddf341651402727a20db547171d6a68",
     "name": "Zest",
     "selectedTokenSets": {
-      "global": "source",
-      "global/components": "disabled"
+      "global": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,8 +13,7 @@
     "selectedTokenSets": {
       "global": "source",
       "brands/pet/core": "enabled",
-      "brands/pet/components": "enabled",
-      "global/components": "disabled"
+      "brands/pet/components": "enabled"
     },
     "$figmaStyleReferences": {}
   },
